@@ -15,12 +15,12 @@ Welcome to my Post-Immersion Practice-Only Training Program repository. This rep
 
 ---
 
-| Week                                                                                           | Completion %  | Comments |
-| ---------------------------------------------------------------------------------------------- | ------------- | -------- |
-| [Week 1](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week%201) | `✅ / ❌ / 50%` | ...      |
-| [Week 2](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week%202) | `✅ / ❌ / 50%` | ...      |
-| [Week 3](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week%203) | `✅ / ❌ / 50%` | ...      |
-| [Week 4](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week%204) | `✅ / ❌ / 50%` | ...      |
+| Week                                                                                        | Completion %  | Comments |
+| ------------------------------------------------------------------------------------------- | ------------- | -------- |
+| [Week 1](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week1) | `✅ / ❌ / 50%` | ...      |
+| [Week 2](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week2) | `✅ / ❌ / 50%` | ...      |
+| [Week 3](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week3) | `✅ / ❌ / 50%` | ...      |
+| [Week 4](https://github.com/sanjaymadaan/PostImmersion2025-PIPTP-Prep-2025/tree/main/Week4) | `✅ / ❌ / 50%` | ...      |
 
 
 > Update this sheet every Sunday before 9 PM.
